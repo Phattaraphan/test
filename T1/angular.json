@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "T1"
+  "defaultProject": "T1",
+  "cli": {
+    "analytics": "bfd09e8f-a93f-46a6-8098-ee2e562a82f8"
+  }
 }
